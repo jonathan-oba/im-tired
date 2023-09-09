@@ -24,6 +24,10 @@
     grid-auto-rows: minmax(100px, auto);
 }
 
-.prof-img-grid {
+.contact-list {
+    list-style-type: none;
+}
+
+.container-col-2 {
     grid-column: 2;
 }
